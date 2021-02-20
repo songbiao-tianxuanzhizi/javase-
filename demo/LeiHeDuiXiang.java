@@ -8,9 +8,9 @@ import java.util.Arrays;
 import java.util.Date;*/
 //导入util下的所有的包
 
-import java.util.*;
+import java.util.Arrays;
+
 //导入sql下的所有的包
-import java.sql.*;
 
 /**
  * 类和对象
